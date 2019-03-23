@@ -1,0 +1,6 @@
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Асанали\source\repos\Home_Work_7\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

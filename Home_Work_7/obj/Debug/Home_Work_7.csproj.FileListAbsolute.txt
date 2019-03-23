@@ -1,0 +1,9 @@
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\bin\Debug\Home_Work_7.exe
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\bin\Debug\Home_Work_7.pdb
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\bin\Debug\MyClassLibrary.dll
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\bin\Debug\MyClassLibrary.pdb
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\obj\Debug\Home_Work_7.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\obj\Debug\Home_Work_7.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\obj\Debug\Home_Work_7.csproj.CopyComplete
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\obj\Debug\Home_Work_7.exe
+C:\Users\Асанали\source\repos\Home_Work_7\Home_Work_7\obj\Debug\Home_Work_7.pdb
